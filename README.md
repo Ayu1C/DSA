@@ -1,2 +1,2 @@
 # DSA
-All DSA questions that I solved
+Some DSA questions that I solved
